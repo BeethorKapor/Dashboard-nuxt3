@@ -19,6 +19,9 @@
             <v-col>
                 <card-box title="ເອກະສານອອກທັງໜົດ" fileCount="14 Files" fileSize="200 MB" />
             </v-col>
+            <v-col>
+                <card-box title="ເອກະສານອອກທັງໜົດ" fileCount="14 Files" fileSize="200 MB" />
+            </v-col>
         </v-row>
         <v-row>
             <v-col>
